@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(#cbaacb,#ffc5bf);}
+#input-task{
+    border: 10px inset #55cbcd;
+}
+#add-task-button{
+    background-color: #ff968a;
+}
+#task-list{
+    border: 1px solid #ecd5e3;
+    list-style-position: outside;
+}
+.task{
+    border: 1px solid black;
+}
+.delete-btn{
+    background-image: linear-gradient(#cbaacb,#ffc5bf);
+}
